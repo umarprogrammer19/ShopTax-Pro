@@ -112,8 +112,7 @@ export function AddressSearch({
                             <button
                                 key={result.place_id}
                                 onClick={() => handleSelectResult(result)}
-                                className="w-full text-left p-4 hover:bg-blue-50 border-b border-slate-100 last:border-b-0 transition-all duration-200 first:rounded-t-xl last:rounded-b-xl"
-                            >
+                                className="w-full text-left p-4 hover:bg-blue-50 border-b border-slate-100 last:border-b-0 transition-all duration-200 first:rounded-t-xl last:rounded-b-xl">
                                 <div className="flex items-start space-x-4">
                                     <div className="p-2 bg-blue-100 rounded-lg">
                                         <MapPin className="h-5 w-5 text-blue-600" />
