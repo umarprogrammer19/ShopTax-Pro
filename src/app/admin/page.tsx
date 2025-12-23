@@ -21,8 +21,7 @@ import {Store, CheckCircle,
     LogOut,
     BarChart3,
     TrendingUp,
-    Loader2,
-    Shield } from "lucide-react"
+    Loader2, Shield } from "lucide-react"
 import { MapLegend } from "@/components/map-legend"
 import Link from "next/link"
 import Image from "next/image"
