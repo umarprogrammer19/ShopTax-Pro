@@ -13,8 +13,7 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@
 import { MapComponent } from "@/components/map-component"
 import firebase from "firebase/compat/app"
 import { toast } from "sonner"
-import {
-    Store,
+import {Store,
     CheckCircle,
     XCircle,
     Users,
