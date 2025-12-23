@@ -181,8 +181,7 @@ export default function AdminPage() {
                             <Button
                                 onClick={handleLogout}
                                 variant="outline"
-                                className="hover:bg-red-50 hover:text-red-600 hover:border-red-200 h-12 px-6 font-semibold bg-transparent"
-                            >
+                                className="hover:bg-red-50 hover:text-red-600 hover:border-red-200 h-12 px-6 font-semibold bg-transparent">
                                 <LogOut className="h-5 w-5 mr-2" />
                                 Logout
                             </Button>
