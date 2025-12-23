@@ -13,7 +13,8 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@
 import { MapComponent } from "@/components/map-component"
 import firebase from "firebase/compat/app"
 import { toast } from "sonner"
-import {Store, CheckCircle, XCircle, Users, Eye, Trash2, LogOut, BarChart3, TrendingUp, Loader2, Shield } from "lucide-react"
+import {
+Store, CheckCircle, XCircle, Users, Eye, Trash2, LogOut, BarChart3, TrendingUp, Loader2, Shield } from "lucide-react"
 import { MapLegend } from "@/components/map-legend"
 import Link from "next/link"
 import Image from "next/image"
