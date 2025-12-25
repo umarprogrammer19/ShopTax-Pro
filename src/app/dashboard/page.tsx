@@ -11,8 +11,7 @@ import { Badge } from "@/components/ui/badge"
 import {
     Store,
     MapPin,Phone,
-    User,Plus,
-    LogOut, CheckCircle,
+    User,Plus,LogOut, CheckCircle,
     XCircle,
     Building2,
     TrendingUp,
