@@ -12,8 +12,7 @@ import { Store, MapPin,Phone,
     User,Plus,LogOut, CheckCircle,
     XCircle,
     Building2,
-    TrendingUp,
-    Loader2} from "lucide-react"
+    TrendingUp,Loader2} from "lucide-react"
 import Link from "next/link"
 import { signOut } from "firebase/auth"
 import { auth } from "@/lib/firebase"
