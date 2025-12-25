@@ -10,8 +10,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import {
     Store,
-    MapPin,
-    Phone,
+    MapPin,Phone,
     User,
     Plus,
     LogOut, CheckCircle,
